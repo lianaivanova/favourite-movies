@@ -1,2 +1,2 @@
-# favourite-movies
-Project for course Mobile Applications
+# Favourite Movies - Mobille Application
+
